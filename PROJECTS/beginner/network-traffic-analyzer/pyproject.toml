@@ -7,7 +7,7 @@ dependencies = [
     "typer>=0.21.1",
     "rich>=14.3.2",
     "scapy>=2.7.0",
-    "matplotlib>=3.10.8",
+    "matplotlib>=3.10.8"
 ]
 
 [project.optional-dependencies]
