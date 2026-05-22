@@ -8,8 +8,8 @@
 name: ${APP_NAME:-c2-beacon}
 
 services:
-  ngin:
-    build:
+  nginx:
+    buildd:
       context: .
       dockerfile: infra/docker/frontend-builder.prod
       args:
