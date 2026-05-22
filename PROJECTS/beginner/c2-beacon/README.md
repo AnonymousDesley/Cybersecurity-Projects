@@ -18,7 +18,7 @@
 
 *This is a quick overview — security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
 
-## What It Does
+## What It Actually Does
 
 - WebSocket-based C2 protocol with XOR + Base64 encoding and shared-key authentication
 - 10 beacon commands mapped to MITRE ATT&CK: shell, sysinfo, proclist, upload, download, screenshot, keylog, persist, sleep
