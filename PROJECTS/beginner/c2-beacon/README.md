@@ -33,7 +33,7 @@
 docker compose -f dev.compose.yml up -d
 ```
 
-Visit `http://localhost:47430` to open the operator dashboard.
+Visit `http://localhost:47430` to open the operator dashboard
 
 Run a beacon in a separate terminal:
 
